@@ -1,0 +1,5 @@
+# Local working files and document review checks
+/tmp/
+
+# Temporary lock files created by Microsoft Office
+~$*
